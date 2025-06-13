@@ -1,6 +1,6 @@
 def main():
     x = 10
-    y = 3
+    y = 14
     print(x + y)
 
 
